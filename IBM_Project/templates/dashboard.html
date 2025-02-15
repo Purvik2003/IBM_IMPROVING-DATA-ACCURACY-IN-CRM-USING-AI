@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRM Anomaly Dashboard</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Flagged CRM Anomalies</h1>
+        <table class="table table-striped mt-4">
+            <thead class="table-dark">
+                <tr>
+                    <th>Transaction ID</th>
+                    <th>Price</th>
+                    <th>Quantity Ordered</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for anomaly in anomalies %}
+                <tr>
+                    <td>{{ anomaly["Transaction ID"] }}</td>
+                    <td>{{ anomaly["price"] }}</td>
+                    <td>{{ anomaly["quantity_ordered"] }}</td>
+                    <td>{{ anomaly["total"] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

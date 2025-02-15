@@ -1,0 +1,250 @@
+﻿order_id,First Name,Last Name,Middle Initial,Gender,E-Mail,Phone No,City,County,cust_id,ref_num,category,price,quantity_ordered,total,payment_method,status
+100354678,Jani,Titus,W,F,jani.titus@gmail.com,405-959-1129,Vinson,Harmon,60124,987867,Men's Fashion,89.9,21,1798,cod,received
+100354678,Jani,Titus,W,F,jani.titus@gmail.com,405-959-1129,Vinson,Harmon,60124,987867,Men's Fashion,19,11,190,cod,received
+100354680,Jani,Titus,W,F,jani.titus@gmail.com,405-959-1129,Vinson,Harmon,60124,987867,Men's Fashion,149.9,9,1199.2,cod,complete
+100354680,Jani,Titus,W,F,jani.titus@gmail.com,405-959-1129,Vinson,Harmon,60124,987867,Men's Fashion,79.9,9,639.2,cod,complete
+100367357,Jani,Titus,W,F,jani.titus@gmail.com,405-959-1129,Vinson,Harmon,60124,987867,Men's Fashion,99.9,2,99.9,cod,received
+100367357,Jani,Titus,W,F,jani.titus@gmail.com,405-959-1129,Vinson,Harmon,60124,987867,Men's Fashion,39.9,2,39.9,cod,received
+100367360,Jani,Titus,W,F,jani.titus@gmail.com,405-959-1129,Vinson,Harmon,60124,987867,Mobiles & Tablets,47.6,2,47.6,cod,order_refunded
+100354677,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Mobiles & Tablets,49,2,49,Payaxis,canceled
+100354677,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Computing,135,2,135,Payaxis,canceled
+100354677,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,549.9,2,549.9,Payaxis,canceled
+100356116,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,549.9,1,0,Payaxis,order_refunded
+100358724,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,549.9,1,0,cod,order_refunded
+100403034,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,254.8,2,214.99372,Easypay,canceled
+100403034,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,315.5,2,266.21083,Easypay,canceled
+100403034,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Home & Living,69.8,2,58.89545,Easypay,canceled
+100403077,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,254.8,2,214.99372,Easypay,canceled
+100403077,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,315.5,2,266.21083,Easypay,canceled
+100403077,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Home & Living,69.8,2,58.89545,Easypay,canceled
+100403411,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,254.8,2,214.99372,Easypay,canceled
+100403411,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,315.5,2,266.21083,Easypay,canceled
+100403411,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Home & Living,69.8,2,58.89545,Easypay,canceled
+100403502,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,254.8,2,214.99372,Easypay,canceled
+100403502,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,315.5,2,266.21083,Easypay,canceled
+100403502,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Home & Living,69.8,2,58.89545,Easypay,canceled
+100403536,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,254.8,3,407.68,Easypay,complete
+100403536,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Appliances,315.5,3,504.8,Easypay,complete
+100403536,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Home & Living,69.8,3,111.68,Easypay,complete
+100422764,Lee,Eaker,S,M,lee.eaker@gmail.com,239-335-6755,Graham,Bradford,42485,171143,Home & Living,499.8,3,799.68,Easypay,complete
+100354679,Jason,Simoneau,G,M,jason.simoneau@gmail.com,701-522-6439,Grand Forks,Grand Forks,53620,650142,Appliances,166.5,2,166.5,cod,canceled
+100354679,Jason,Simoneau,G,M,jason.simoneau@gmail.com,701-522-6439,Grand Forks,Grand Forks,53620,650142,Women's Fashion,140,2,140,cod,canceled
+100358823,Jason,Simoneau,G,M,jason.simoneau@gmail.com,701-522-6439,Grand Forks,Grand Forks,53620,650142,Appliances,199,2,199,cod,canceled
+100359410,Jason,Simoneau,G,M,jason.simoneau@gmail.com,701-522-6439,Grand Forks,Grand Forks,53620,650142,Appliances,199,11,1990,cod,complete
+100359558,Jason,Simoneau,G,M,jason.simoneau@gmail.com,701-522-6439,Grand Forks,Grand Forks,53620,650142,Appliances,199.9,11,1999,cod,complete
+100354681,Grover,Bayless,X,M,grover.bayless@yahoo.com,808-380-3891,Laupahoehoe,Hawaii,56836,578084,Appliances,1099.9,2,1099.9,Easypay,canceled
+100354682,Grover,Bayless,X,M,grover.bayless@yahoo.com,808-380-3891,Laupahoehoe,Hawaii,56836,578084,Appliances,1099.9,2,1099.9,Payaxis,canceled
+100354684,Grover,Bayless,X,M,grover.bayless@yahoo.com,808-380-3891,Laupahoehoe,Hawaii,56836,578084,Appliances,1099.9,2,1099.9,Easypay,canceled
+100356443,Grover,Bayless,X,M,grover.bayless@yahoo.com,808-380-3891,Laupahoehoe,Hawaii,56836,578084,Appliances,1099.9,2,1099.9,Easypay,canceled
+100357608,Grover,Bayless,X,M,grover.bayless@yahoo.com,808-380-3891,Laupahoehoe,Hawaii,56836,578084,Appliances,1543.5,2,1543.5,Payaxis,canceled
+100357611,Grover,Bayless,X,M,grover.bayless@yahoo.com,808-380-3891,Laupahoehoe,Hawaii,56836,578084,Appliances,1543.5,2,1543.5,Easypay,canceled
+100357990,Grover,Bayless,X,M,grover.bayless@yahoo.com,808-380-3891,Laupahoehoe,Hawaii,56836,578084,Appliances,1543.5,2,1543.5,Payaxis,canceled
+100358002,Grover,Bayless,X,M,grover.bayless@yahoo.com,808-380-3891,Laupahoehoe,Hawaii,56836,578084,Appliances,1543.5,2,1543.5,Easypay,canceled
+100358330,Grover,Bayless,X,M,grover.bayless@yahoo.com,808-380-3891,Laupahoehoe,Hawaii,56836,578084,Appliances,1543.5,2,1543.5,Payaxis,canceled
+100359296,Grover,Bayless,X,M,grover.bayless@yahoo.com,808-380-3891,Laupahoehoe,Hawaii,56836,578084,Appliances,483.5,2,483.5,Easypay,canceled
+100359308,Grover,Bayless,X,M,grover.bayless@yahoo.com,808-380-3891,Laupahoehoe,Hawaii,56836,578084,Appliances,483.5,2,483.5,Easypay,canceled
+100354683,Albertina,Bensen,U,F,albertina.bensen@gmail.com,307-308-4981,Glendo,Platte,60125,688994,Men's Fashion,170,3,340,Payaxis,canceled
+100354683,Albertina,Bensen,U,F,albertina.bensen@gmail.com,307-308-4981,Glendo,Platte,60125,688994,Men's Fashion,170,2,170,Payaxis,canceled
+100355124,Albertina,Bensen,U,F,albertina.bensen@gmail.com,307-308-4981,Glendo,Platte,60125,688994,Men's Fashion,170,3,340,Payaxis,order_refunded
+100355124,Albertina,Bensen,U,F,albertina.bensen@gmail.com,307-308-4981,Glendo,Platte,60125,688994,Men's Fashion,170,2,170,Payaxis,order_refunded
+100354685,Drema,Galle,T,F,drema.galle@gmail.com,229-364-7348,Farmington,Oconee,51286,167242,Mobiles & Tablets,3139.2,2,3139.2,Payaxis,canceled
+100354686,Sheryll,Newsome,U,F,sheryll.newsome@gmail.com,423-895-1341,Nashville,Davidson,60126,535212,Computing,315.2,2,315.2,cod,order_refunded
+100354849,Sheryll,Newsome,U,F,sheryll.newsome@gmail.com,423-895-1341,Nashville,Davidson,60126,535212,Men's Fashion,149.9,2,149.9,cod,order_refunded
+100358459,Sheryll,Newsome,U,F,sheryll.newsome@gmail.com,423-895-1341,Nashville,Davidson,60126,535212,Computing,315.2,2,315.2,cod,order_refunded
+100354687,Bernard,Dewald,K,M,bernard.dewald@hotmail.co.uk,401-535-8490,Warwick,Kent,60127,536652,Home & Living,2900,2,2900,Payaxis,order_refunded
+100356322,Bernard,Dewald,K,M,bernard.dewald@hotmail.co.uk,401-535-8490,Warwick,Kent,60127,536652,Mobiles & Tablets,1000,2,1000,Payaxis,canceled
+100354688,Hilario,Brammer,W,M,hilario.brammer@hotmail.com,239-462-9760,Sarasota,Sarasota,60128,300941,Mobiles & Tablets,35,2,35,cod,order_refunded
+100354689,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,265,3,530,Payaxis,complete
+100354689,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,129,2,129,Payaxis,complete
+100354690,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,49.9,2,49.9,Payaxis,canceled
+100354692,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,35,2,35,Payaxis,canceled
+100354693,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,35,4,105,Payaxis,canceled
+100354691,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,115,4,345,Payaxis,complete
+100354694,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Mobiles & Tablets,500,2,500,Payaxis,canceled
+100356697,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,160,2,160,Payaxis,canceled
+100356698,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,315,2,315,Payaxis,canceled
+100359748,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,156,3,312,Payaxis,canceled
+100361029,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,156,2,156,Payaxis,canceled
+100375675,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,325,2,325,Payaxis,canceled
+100375676,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,325,2,325,Payaxis,canceled
+100375677,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,325,2,325,Payaxis,canceled
+100375680,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,325,2,325,Payaxis,canceled
+100375681,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,325,2,325,Payaxis,canceled
+100375681,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,325,2,325,Payaxis,canceled
+100375682,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Women's Fashion,379.8,2,379.8,Payaxis,canceled
+100375683,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,99.8,2,99.8,Payaxis,canceled
+100375684,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,196,2,196,Payaxis,canceled
+100375685,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,196,2,196,Payaxis,canceled
+100375686,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,196,2,196,Payaxis,canceled
+100375687,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,196,2,196,Payaxis,canceled
+100375688,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,99.8,2,99.8,Payaxis,canceled
+100401731,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,325,3,650,Payaxis,canceled
+100401754,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,69.9,2,69.9,Payaxis,canceled
+100401763,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,325,3,650,Payaxis,canceled
+100401779,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,325,3,650,Payaxis,canceled
+100401799,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,259.9,2,259.9,Payaxis,canceled
+100401814,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,325,2,325,Payaxis,canceled
+100401824,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,325,3,650,Payaxis,canceled
+100401837,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,196,2,196,Payaxis,canceled
+100401881,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,285,2,285,Payaxis,canceled
+100401890,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,285,2,285,Payaxis,canceled
+100401901,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,285,2,285,Payaxis,canceled
+100441393,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Appliances,2625,2,2625,Payaxis,canceled
+100533723,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,299.9,2,299.9,Payaxis,canceled
+100533724,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,299.9,2,299.9,Payaxis,canceled
+100533726,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,299.9,2,299.9,Payaxis,canceled
+100533727,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,299.9,2,299.9,Payaxis,canceled
+100533729,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,1600,2,1600,Payaxis,canceled
+100533733,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,59.9,2,59.9,Payaxis,canceled
+100533735,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,274.9,2,274.9,Payaxis,canceled
+100533739,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,39.9,2,39.9,Payaxis,canceled
+100560796,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,39.8,1,0,Payaxis,canceled
+100560807,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,99.9,1,0,Payaxis,canceled
+100560817,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,99.9,1,0,Payaxis,canceled
+100560829,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,99.9,1,0,Payaxis,canceled
+100560841,Elizbeth,Raminez,E,F,elizbeth.raminez@gmail.com,217-405-0048,Brownstown,Fayette,56449,849200,Men's Fashion,119.8,2,119.8,Payaxis,canceled
+100354695,Robbie,Dinapoli,U,M,robbie.dinapoli@yahoo.com,270-944-7436,Mill Springs,Wayne,60129,313357,Men's Fashion,29.9,2,29.9,cod,order_refunded
+100354696,Rachell,Murguia,X,F,rachell.murguia@hotmail.com,217-234-9165,Brighton,Jersey,60130,304702,Mobiles & Tablets,64.5,2,64.5,cod,canceled
+100354697,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,29.9,2,29.9,jazzwallet,received
+100354697,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,28.8,2,28.8,jazzwallet,received
+100354697,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,71.5,2,71.5,jazzwallet,received
+100356581,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,13,3,21.803,jazzwallet,canceled
+100356581,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,25,2,20.964,jazzwallet,canceled
+100356581,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,15,2,12.579,jazzwallet,canceled
+100356581,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Mobiles & Tablets,19.9,2,16.688,jazzwallet,canceled
+100356581,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,38,2,31.866,jazzwallet,canceled
+100357280,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,15,2,15,jazzwallet,canceled
+100357280,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Mobiles & Tablets,19.9,2,19.9,jazzwallet,canceled
+100357280,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,13,2,13,jazzwallet,canceled
+100357280,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Beauty & Grooming,10,3,20,jazzwallet,canceled
+100357280,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Beauty & Grooming,16,2,16,jazzwallet,canceled
+100357280,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Beauty & Grooming,26,2,26,jazzwallet,canceled
+100357282,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,15,2,15,jazzwallet,canceled
+100357282,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Mobiles & Tablets,19.9,2,19.9,jazzwallet,canceled
+100357282,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Beauty & Grooming,10,3,20,jazzwallet,canceled
+100357282,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Beauty & Grooming,16,2,16,jazzwallet,canceled
+100357282,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,21.5,2,21.5,jazzwallet,canceled
+100357662,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Mobiles & Tablets,19.9,2,19.9,cod,received
+100357662,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Beauty & Grooming,10,2,10,cod,received
+100357662,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Beauty & Grooming,16,2,16,cod,received
+100357662,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,21.5,2,21.5,cod,received
+100357662,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,13,2,13,cod,received
+100357662,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Beauty & Grooming,26,2,26,cod,received
+100357662,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,15,2,15,cod,received
+100362846,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,75,2,75,Easypay_MA,complete
+100362846,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Appliances,54.9,2,54.9,Easypay_MA,complete
+100362846,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Beauty & Grooming,10,2,10,Easypay_MA,complete
+100383440,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,24.9,2,22.41,Easypay_MA,complete
+100383440,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,24.9,2,22.41,Easypay_MA,complete
+100383440,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,129.9,2,116.91,Easypay_MA,complete
+100445653,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,39.4,3,78.8,jazzwallet,complete
+100445653,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,22.5,2,22.5,jazzwallet,complete
+100468670,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,65,3,130,Easypay_MA,canceled
+100468676,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,65,3,130,Easypay_MA,canceled
+100468677,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,65,3,130,Easypay_MA,canceled
+100471838,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,65,2,65,jazzwallet,canceled
+100471838,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,22.5,3,45,jazzwallet,canceled
+100471841,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,65,2,65,jazzwallet,received
+100471841,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,22.5,2,22.5,jazzwallet,received
+100471841,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,23,2,23,jazzwallet,received
+100474919,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,65,4,135,jazzwallet,complete
+100474919,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,20,11,200,jazzwallet,complete
+100474919,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,25,9,200,jazzwallet,complete
+100474919,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Mobiles & Tablets,6.9,11,69,jazzwallet,complete
+100543324,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Health & Sports,62.5,2,62.5,Easypay_MA,received
+100543324,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,24.9,2,24.9,Easypay_MA,received
+100543324,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Men's Fashion,24.9,2,24.9,Easypay_MA,received
+100545337,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Appliances,112,2,112,Easypay_MA,received
+100545337,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Home & Living,16.8,2,16.8,Easypay_MA,received
+100550770,Lauran,Mayo,Z,F,lauran.mayo@gmail.com,480-518-4474,Phoenix,Maricopa,31655,852167,Mobiles & Tablets,99.9,2,99.9,Easypay_MA,order_refunded
+100354699,Abe,Waymire,W,M,abe.waymire@yahoo.com,479-236-6862,Fort Smith,Sebastian,60131,189336,Women's Fashion,175,2,175,cod,complete
+100354698,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Mobiles & Tablets,959.9,2,959.9,Payaxis,canceled
+100359540,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Superstore,7,2,7,cod,order_refunded
+100361957,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Superstore,7,2,7,cod,order_refunded
+100370311,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Others,300,2,300,jazzvoucher,canceled
+100370316,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Entertainment,2812.5,2,2812.5,Payaxis,canceled
+100370598,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Entertainment,1690,2,1690,Payaxis,canceled
+100376828,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,119.9,2,119.9,cod,order_refunded
+100383230,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,140,2,126,Easypay_MA,canceled
+100383230,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,125,2,112.5,Easypay_MA,canceled
+100383242,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,125,2,112.5,easypay_voucher,complete
+100383242,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,140,2,126,easypay_voucher,complete
+100397949,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,140,2,126,easypay_voucher,complete
+100397949,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,99,2,89.1,easypay_voucher,complete
+100397949,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,125,2,112.5,easypay_voucher,complete
+100397973,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,125,3,225,easypay_voucher,canceled
+100442319,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Beauty & Grooming,29.9,3,59.8,cod,complete
+100447999,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Entertainment,587,3,874,Easypay,canceled
+100447999,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Appliances,182,9,1456,Easypay,canceled
+100448205,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Mobiles & Tablets,1239.9,2,1089.9,Easypay,canceled
+100448717,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Entertainment,56.8,3,113.6,Easypay,canceled
+100449034,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Appliances,172.2,3,344.4,cod,order_refunded
+100449034,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Appliances,110,2,110,cod,order_refunded
+100469648,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,112.5,1,0,easypay_voucher,order_refunded
+100469652,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,130,1,0,easypay_voucher,complete
+100476933,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Women's Fashion,138,3,248.4,easypay_voucher,complete
+100514243,Lenny,Blount,X,M,lenny.blount@apple.com,228-450-0931,Drew,Sunflower,15106,503495,Appliances,350,2,350,cod,complete
+100354700,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Mobiles & Tablets,32.3,1,0,cod,order_refunded
+100354700,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Mobiles & Tablets,444.4,1,0,cod,order_refunded
+100357028,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Soghaat,43.8,2,36.718,cod,received
+100357028,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Mobiles & Tablets,79.9,2,66.982,cod,received
+100389916,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Superstore,24.8,2,24.8,cod,order_refunded
+100389916,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Superstore,27.8,2,27.8,cod,order_refunded
+100389916,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Men's Fashion,49.8,2,49.8,cod,order_refunded
+100535491,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Soghaat,22.5,2,22.5,cod,received
+100535491,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Men's Fashion,59.9,2,59.9,cod,received
+100535491,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Soghaat,23,2,23,cod,received
+100535493,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Soghaat,22.5,2,22.5,cod,order_refunded
+100535493,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Men's Fashion,59.9,2,59.9,cod,order_refunded
+100535493,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Soghaat,23,2,23,cod,order_refunded
+100535496,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Soghaat,22.5,2,22.5,cod,order_refunded
+100535496,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Men's Fashion,59.9,2,59.9,cod,order_refunded
+100535496,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Soghaat,23,2,23,cod,order_refunded
+100535498,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Soghaat,22.5,2,22.5,cod,order_refunded
+100535498,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Men's Fashion,59.9,2,59.9,cod,order_refunded
+100535498,Romeo,Hopps,G,M,romeo.hopps@outlook.com,308-392-2413,Snyder,Dodge,37011,182401,Soghaat,23,3,46,cod,order_refunded
+100354701,Florentino,Stough,J,M,florentino.stough@gmail.com,201-699-9950,Riverton,Burlington,52163,716936,Appliances,34.5,4,103.5,cod,complete
+100354702,Harrison,Criss,F,M,harrison.criss@yahoo.com,304-501-8116,Huntington,Cabell,60132,237201,Women's Fashion,121.5,2,121.5,Payaxis,canceled
+100354702,Harrison,Criss,F,M,harrison.criss@yahoo.com,304-501-8116,Huntington,Cabell,60132,237201,Women's Fashion,115.5,2,115.5,Payaxis,canceled
+100354704,Harrison,Criss,F,M,harrison.criss@yahoo.com,304-501-8116,Huntington,Cabell,60132,237201,Women's Fashion,121.5,2,121.5,Payaxis,complete
+100354704,Harrison,Criss,F,M,harrison.criss@yahoo.com,304-501-8116,Huntington,Cabell,60132,237201,Women's Fashion,115.5,2,115.5,Payaxis,complete
+100354703,Micah,Coutee,M,M,micah.coutee@gmail.com,479-471-4601,Benton,Benton,44511,562300,Men's Fashion,35,2,35,cod,order_refunded
+100354706,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Appliances,445,2,445,Payaxis,canceled
+100354706,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1279.9,3,2559.8,Payaxis,canceled
+100354706,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1690,2,1690,Payaxis,canceled
+100354707,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Appliances,445,2,445,Payaxis,canceled
+100354707,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1279.9,3,2559.8,Payaxis,canceled
+100354707,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1690,2,1690,Payaxis,canceled
+100354705,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Appliances,445,2,445,Payaxis,canceled
+100354705,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1279.9,3,2559.8,Payaxis,canceled
+100354705,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1690,2,1690,Payaxis,canceled
+100354709,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Appliances,445,2,445,Payaxis,canceled
+100354709,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1279.9,3,2559.8,Payaxis,canceled
+100354709,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1690,2,1690,Payaxis,canceled
+100354708,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Appliances,445,2,445,Payaxis,canceled
+100354708,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1279.9,3,2559.8,Payaxis,canceled
+100354708,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1690,2,1690,Payaxis,canceled
+100354710,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Appliances,445,2,445,Payaxis,canceled
+100354710,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1279.9,3,2559.8,Payaxis,canceled
+100354710,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1690,2,1690,Payaxis,canceled
+100354712,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Appliances,445,2,445,Payaxis,canceled
+100354712,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1279.9,3,2559.8,Payaxis,canceled
+100354712,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1690,2,1690,Payaxis,canceled
+100354711,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Appliances,445,2,445,Payaxis,canceled
+100354711,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1279.9,3,2559.8,Payaxis,canceled
+100354711,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1690,2,1690,Payaxis,canceled
+100354714,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Appliances,445,2,445,Payaxis,canceled
+100354714,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1279.9,3,2559.8,Payaxis,canceled
+100354714,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1690,2,1690,Payaxis,canceled
+100354713,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Appliances,445,2,445,Payaxis,canceled
+100354713,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1279.9,3,2559.8,Payaxis,canceled
+100354713,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1690,2,1690,Payaxis,canceled
+100354715,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Appliances,445,2,445,Payaxis,received
+100354715,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1279.9,3,2559.8,Payaxis,received
+100354715,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Mobiles & Tablets,1690,2,1690,Payaxis,received
+100355734,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Women's Fashion,109.9,2,109.9,Payaxis,received
+100355734,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Women's Fashion,99.9,2,99.9,Payaxis,received
+100355734,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Women's Fashion,99.9,2,99.9,Payaxis,received
+100355734,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Women's Fashion,219.5,2,219.5,Payaxis,received
+100355734,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Women's Fashion,135,2,135,Payaxis,received
+100355734,Wallace,Henrich,B,M,wallace.henrich@yahoo.com,209-649-0095,El Monte,Los Angeles,60133,488301,Women's Fashion,69.9,2,69.9,Payaxis,received
