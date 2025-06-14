@@ -1,0 +1,41 @@
+from flask import Flask, request, render_template, send_file
+import pandas as pd
+import os
+
+app = Flask(__name__)
+UPLOAD_FOLDER = "uploads"
+if not os.path.exists(UPLOAD_FOLDER):
+    os.makedirs(UPLOAD_FOLDER)
+
+@app.route('/')
+def home():
+    return render_template('index.html')
+
+@app.route('/upload', methods=['POST'])
+def upload_file():
+    if 'file' not in request.files:
+        return "No file part"
+    file = request.files['file']
+    if file.filename == '':
+        return "No selected file"
+    
+    file_path = os.path.join(UPLOAD_FOLDER, file.filename)
+    file.save(file_path)
+    
+    # Process CSV
+    df = pd.read_csv(file_path)
+    df_cleaned = clean_crm_data(df)
+    cleaned_file_path = os.path.join(UPLOAD_FOLDER, "cleaned_" + file.filename)
+    df_cleaned.to_csv(cleaned_file_path, index=False)
+    
+    return send_file(cleaned_file_path, as_attachment=True)
+
+# Data Cleaning Function
+def clean_crm_data(df):
+    df = df.drop_duplicates()
+    df = df.fillna(method='ffill')  # Fill missing values
+    df = df.applymap(lambda x: x.strip() if isinstance(x, str) else x)  # Trim spaces
+    return df
+
+if __name__ == '__main__':
+    app.run(debug=True)

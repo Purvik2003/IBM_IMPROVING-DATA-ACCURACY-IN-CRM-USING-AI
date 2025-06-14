@@ -1,0 +1,27 @@
+Data Quality Assessment Report
+=================================
+Total Rows: 6
+Total Columns: 6
+
+Missing Values:
+CustomerID: 0 missing values
+Name: 0 missing values
+Email: 1 missing values
+JoinDate: 0 missing values
+AmountSpent: 1 missing values
+Email_Valid: 0 missing values
+
+Duplicate Entries (before cleaning): 0
+
+Invalid Emails: 1
+Invalid Join Dates: 0
+
+Data Cleaning Summary:
+1. Fill missing 'AmountSpent' with mean.
+2. Remove duplicate entries.
+3. Remove rows with invalid emails.
+4. Remove rows with invalid dates.
+
+Final Data Quality Status:
+Remaining Missing Values: 2
+Remaining Duplicate Entries: 0
